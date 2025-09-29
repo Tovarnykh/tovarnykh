@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Python, ML, NLP<br>🎯 My goal is to become Data Scientist<br>🎲 My hobby is to play strategic video games, so be free to call me!</p>
+<p align="left">✨ Worked as a Java Developer and tester. Winner of international application development competitions.<br>📚 I'm currently learning Python, ML, NLP, as my new goal is to become Data Scientist!!1!<br>🎲 My hobby is to play strategic video games, so be free to call me! https://steamcommunity.com/id/vectorkovarniy/</p>
 
 ###
 
