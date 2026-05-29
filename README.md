@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">( ͡° ᴥ ͡°) My name is Viktor and I'm a AI Engineer</p>
+<p align="left">( ͡° ᴥ ͡°) My name is Viktor and I'm an AI Engineer</p>
 
 ###
 
