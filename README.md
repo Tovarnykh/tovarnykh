@@ -8,17 +8,10 @@
 
 ###
 
-<p align="left">( ͡° ᴥ ͡°) I`m Viktor and I'm a Data Scientist/Machine Learning Engineer/Data analyst, from Norway</p>
+<p align="left">( ͡° ᴥ ͡°) My name is Viktor and I'm a AI Engineer</p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Worked as a Java Developer and tester. Winner of international application development competitions.<br>📚 I'm currently learning Python, ML, NLP, as my new goal is to become Data Scientist!!1!<br>🎲 My hobby is to play strategic video games, so be free to call me! https://steamcommunity.com/id/vectorkovarniy/</p>
-
-###
 
 <h2 align="left">I code with</h2>
 
